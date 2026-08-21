@@ -1,6 +1,0 @@
-n = int(input("Enter the number: "))
-
-if n % 2 == 2:
-    print("Even")
-else:
-    print("odd")
